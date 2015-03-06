@@ -2,4 +2,4 @@
 - dialog 視窗彈出
 - 視窗右上角 close button
 - 背景模糊
-- demo:
+- demo: http://franklion.github.io/css3_practice/
